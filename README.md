@@ -3,7 +3,7 @@ Explaining how to lable your 3D objects for segmentation tasks with Machine lear
 
  For this you will need :  blender & python installed on your computer.\
  \
- \- This video explains the process :   https://www.youtube.com/watch?v=dpf_jePsHoI 
+ \- This video explains the process :   https://www.youtube.com/watch?v=HeLEH7P3ZAk
 
  
  
